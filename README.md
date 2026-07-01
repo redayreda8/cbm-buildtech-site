@@ -4,15 +4,13 @@ Site vitrine indépendant de CBM BuildTech.
 
 ## Positionnement
 
-CBM BuildTech = société de digitalisation générale :
+CBM BuildTech c'est société de digitalisation générale :
 - développement web
 - développement logiciel
 - applications métier
 - SaaS
 - automatisation
 - digitalisation des processus
-
-Structura = produit de CBM BuildTech, pas l'identité principale.
 
 ## Déploiement
 
